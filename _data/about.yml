@@ -1,5 +1,15 @@
-- name: Will Russell
-  number: +213 33433
-  email: youremail@gmail.com
-  funfact: I love coffee!
-  bio1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales sapien nec faucibus egestas. In porta mattis tristique. Phasellus aliquam euismod mauris. Proin aliquam ligula eu erat ornare, quis aliquam ante egestas. Vestibulum congue, dui eu rutrum dictum, diam turpis suscipit libero, sit amet euismod risus libero vel ligula. Vivamus efficitur at arcu vel eleifend.
+- name: Dani Boj
+  number: +34 653609499
+  email: dani@dboj-sol.nom.es
+  funfact: I am a caffeine based life form!
+  bio1: IT is my passion. Although I am a technician in Software Development, I am working as a sys and network admin. I decided to change my career trajectory after discovering a newfound passion for web development by teaching myself its foundations, which led me to study software design and development. 
+
+  Through my current studies, I have acquired technical knowledge in various development technologies, frameworks, and platforms, as well as in Agile methodologies and ICT tools. 
+
+  Additionally, at Webdreams, I contribute as a System Administrator, leveraging my expertise in Server managing, Proxy Server, Cybersecurity, Firewalls, and Networking. My role involves managing IT tools and supporting system and network operations. Also, I have improved my skills managing Docker environments and gained knowledge on AWS administration. \
+
+  With a certification in Python Essentials, I bring a technical foundation to enhance infrastructure security and efficiency by managing system scripts. 
+
+  Transitioning from software development to system and network administration, I have broadened my technical competencies in managing Linux and Windows servers. My passion for IT drives me to continuously develop skills that align with organizational needs, ensuring reliable and secure system environments.
+
+  I am a person with many interests and a drive to excel, who is resourceful and committed.
